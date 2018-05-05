@@ -1,0 +1,26 @@
+User_id = Udeadbeefdeadbeefdeadbeefdeadbeef 
+replyToken = 00000000000000000000000000000000 
+Timestamp = 1525510816042 
+Message type = text 
+Message text = Hello, world 
+response = "HTTP\/1.1 400 Bad Request\r\nServer: AkamaiGHost\r\nMime-Version: 1.0\r\nContent-Type: text\/html\r\nContent-Length: 177\r\nExpires: Sat, 05 May 2018 09:00:17 GMT\r\nCache-Control: max-age=0, no-cache, no-store\r\nPragma: no-cache\r\nDate: Sat, 05 May 2018 09:00:17 GMT\r\nConnection: close\r\n\r\n\u003CHTML\u003E\u003CHEAD\u003E\u003CTITLE\u003EError\u003C\/TITLE\u003E\u003C\/HEAD\u003E\u003CBODY\u003E\nAn error occurred while processing your request.\u003Cp\u003E\nReference&#32;&#35;166&#46;9afa56b8&#46;1525510817&#46;1c3d7cda\n\u003C\/BODY\u003E\u003C\/HTML\u003E\n"User_id = Udeadbeefdeadbeefdeadbeefdeadbeef 
+replyToken = 00000000000000000000000000000000 
+Timestamp = 1525512087840 
+Message type = text 
+Message text = Hello, world 
+response = "HTTP\/1.1 400 Bad Request\r\nServer: nginx\r\nContent-Type: application\/json;charset=UTF-8\r\nX-Line-Request-Id: 9f238cf7-370e-409d-ac90-8a897bf82b2c\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Frame-Options: DENY\r\nContent-Length: 33\r\nExpires: Sat, 05 May 2018 09:21:28 GMT\r\nCache-Control: max-age=0, no-cache, no-store\r\nPragma: no-cache\r\nDate: Sat, 05 May 2018 09:21:28 GMT\r\nConnection: close\r\n\r\n{\"message\":\"Invalid reply token\"}"User_id = U4d2504db99425c522f5d7e98a40c7af9 
+replyToken = 254e45b35ee6495c983525e9e9ee709b 
+Timestamp = 1525512127697 
+Message type = text 
+Message text = D 
+response = "HTTP\/1.1 200 OK\r\nServer: nginx\r\nContent-Type: application\/json;charset=UTF-8\r\nX-Line-Request-Id: 2b8f117c-0b4b-4a59-95cb-63b38c4e831c\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Frame-Options: DENY\r\nContent-Length: 2\r\nExpires: Sat, 05 May 2018 09:22:08 GMT\r\nCache-Control: max-age=0, no-cache, no-store\r\nPragma: no-cache\r\nDate: Sat, 05 May 2018 09:22:08 GMT\r\nConnection: keep-alive\r\n\r\n{}"User_id = U4d2504db99425c522f5d7e98a40c7af9 
+replyToken = efd966ad30624522884d5fab77a3bc4c 
+Timestamp = 1525512899487 
+Message type = text 
+Message text = Strong 
+response = "HTTP\/1.1 200 OK\r\nServer: nginx\r\nContent-Type: application\/json;charset=UTF-8\r\nX-Line-Request-Id: 89959a03-67f5-49f5-8d31-36fc7a3f1e84\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Frame-Options: DENY\r\nContent-Length: 2\r\nExpires: Sat, 05 May 2018 09:35:01 GMT\r\nCache-Control: max-age=0, no-cache, no-store\r\nPragma: no-cache\r\nDate: Sat, 05 May 2018 09:35:01 GMT\r\nConnection: keep-alive\r\n\r\n{}"User_id = Udeadbeefdeadbeefdeadbeefdeadbeef 
+replyToken = 00000000000000000000000000000000 
+Timestamp = 1525513646231 
+Message type = text 
+Message text = Hello, world 
+response = "HTTP\/1.1 400 Bad Request\r\nServer: nginx\r\nContent-Type: application\/json;charset=UTF-8\r\nX-Line-Request-Id: a19d8fe7-477f-4738-ac17-fc7745711867\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Frame-Options: DENY\r\nContent-Length: 33\r\nExpires: Sat, 05 May 2018 09:47:26 GMT\r\nCache-Control: max-age=0, no-cache, no-store\r\nPragma: no-cache\r\nDate: Sat, 05 May 2018 09:47:26 GMT\r\nConnection: close\r\n\r\n{\"message\":\"Invalid reply token\"}"
